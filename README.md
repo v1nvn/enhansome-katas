@@ -1,6 +1,6 @@
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
-# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,719 | 🐛 67 | 📅 2026-01-28 with stars
+# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,879 | 🐛 68 | 📅 2026-01-28 with stars
 
 > A curated list of code katas
 
