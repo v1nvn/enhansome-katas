@@ -1,6 +1,6 @@
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
-# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,879 | 🐛 68 | 📅 2026-01-28 with stars
+# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,153 | 🐛 68 | 📅 2026-01-28 with stars
 
 > A curated list of code katas
 
@@ -83,7 +83,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
 * [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,162 | 🐛 1 | 🌐 XSLT | 📅 2026-02-05
-* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,601 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
+* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,602 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
 * [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 802 | 🐛 1 | 🌐 TypeScript | 📅 2025-09-24
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 768 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 415 | 🐛 7 | 🌐 C# | 📅 2024-07-03
