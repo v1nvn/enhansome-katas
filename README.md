@@ -1,6 +1,6 @@
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
-# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,589 | 🐛 68 | 📅 2026-01-28 with stars
+# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,833 | 🐛 67 | 📅 2026-01-28 with stars
 
 > A curated list of code katas
 
@@ -82,19 +82,19 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 ## Others
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
-* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,161 | 🐛 1 | 🌐 XSLT | 📅 2026-02-05
-* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,603 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
-* [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 801 | 🐛 1 | 🌐 TypeScript | 📅 2025-09-24
+* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,163 | 🐛 1 | 🌐 XSLT | 📅 2026-02-05
+* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,604 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
+* [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 802 | 🐛 1 | 🌐 TypeScript | 📅 2025-09-24
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 768 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 415 | 🐛 7 | 🌐 C# | 📅 2024-07-03
-* [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 315 | 🐛 1 | 🌐 Java | 📅 2025-05-22
+* [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 314 | 🐛 1 | 🌐 Java | 📅 2025-05-22
 * [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 283 | 🐛 13 | 🌐 Dockerfile | 📅 2025-10-20
 * [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) ⭐ 132 | 🐛 0 | 🌐 LabVIEW | 📅 2025-12-31
 * [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 122 | 🐛 1 | 🌐 C# | 📅 2026-01-22
 * [Train Reservation kata](https://github.com/emilybache/KataTrainReservation) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2026-01-19
 * [incremental\_katas](https://github.com/Gianfrancoalongi/incremental_katas) ⭐ 61 | 🐛 0 | 📅 2023-09-06
 * [Refactoring Golf Kata](https://github.com/daviddenton/refactoring-golf) ⭐ 56 | 🐛 4 | 🌐 Java | 📅 2024-05-06
-* [Functional Structures Refactoring Kata](https://github.com/matteobaglini/functional-structures-refactoring-kata) ⭐ 36 | 🐛 3 | 🌐 C# | 📅 2021-05-12
+* [Functional Structures Refactoring Kata](https://github.com/matteobaglini/functional-structures-refactoring-kata) ⭐ 35 | 🐛 3 | 🌐 C# | 📅 2021-05-12
 * [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata) ⭐ 33 | 🐛 1 | 🌐 Scala | 📅 2017-09-12
 * [Tell don't ask kata](https://github.com/gabrieletondi/tell-dont-ask-kata) ⭐ 32 | 🐛 3 | 🌐 PHP | 📅 2023-11-02
 * [.Net Code Katas](https://github.com/AlanBarber/CodeKatas) ⭐ 23 | 🐛 1 | 🌐 C# | 📅 2022-11-03
