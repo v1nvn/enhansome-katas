@@ -1,6 +1,6 @@
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
-# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,408 | 🐛 71 | 📅 2026-01-28 with stars
+# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,706 | 🐛 70 | 📅 2026-01-28 with stars
 
 > A curated list of code katas
 
@@ -88,9 +88,9 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 766 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 416 | 🐛 7 | 🌐 C# | 📅 2024-07-03
 * [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 314 | 🐛 1 | 🌐 Java | 📅 2025-05-22
-* [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 283 | 🐛 13 | 🌐 Dockerfile | 📅 2025-10-20
+* [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 283 | 🐛 12 | 🌐 Dockerfile | 📅 2025-10-20
 * [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) ⭐ 132 | 🐛 0 | 🌐 LabVIEW | 📅 2025-12-31
-* [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 122 | 🐛 1 | 🌐 C# | 📅 2026-01-22
+* [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 122 | 🐛 2 | 🌐 C# | 📅 2026-01-22
 * [Train Reservation kata](https://github.com/emilybache/KataTrainReservation) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2026-01-19
 * [incremental\_katas](https://github.com/Gianfrancoalongi/incremental_katas) ⭐ 61 | 🐛 0 | 📅 2023-09-06
 * [Refactoring Golf Kata](https://github.com/daviddenton/refactoring-golf) ⭐ 56 | 🐛 4 | 🌐 Java | 📅 2024-05-06
